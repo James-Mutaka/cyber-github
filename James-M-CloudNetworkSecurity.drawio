@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T01:37:47.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="JAIYpnXQV3QSBCR3LWtN" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T01:41:00.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XVjF95UA_A4tTDl5QNed" version="15.3.0" type="github">
   <diagram id="IcHb-Y-xAka0jkrHvOs7" name="Page-1">
     <mxGraphModel dx="1968" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -305,17 +305,23 @@
         <mxCell id="E9d8_AmILumTyX3_b7Oe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="llVI7Hf9OjRL6w-K2cts-2" target="llVI7Hf9OjRL6w-K2cts-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E9d8_AmILumTyX3_b7Oe-38" value="" style="endArrow=none;html=1;entryX=0.752;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="llVI7Hf9OjRL6w-K2cts-2">
+        <mxCell id="E9d8_AmILumTyX3_b7Oe-38" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-570" y="1180" as="sourcePoint" />
-            <mxPoint x="-480" y="1180" as="targetPoint" />
+            <mxPoint x="480" y="1174" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E9d8_AmILumTyX3_b7Oe-40" value="" style="endArrow=none;html=1;exitX=0.752;exitY=0.56;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="llVI7Hf9OjRL6w-K2cts-2">
+        <mxCell id="E9d8_AmILumTyX3_b7Oe-40" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="1005" as="sourcePoint" />
+            <mxPoint x="480" y="1172" as="sourcePoint" />
             <mxPoint x="480" y="955" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E9d8_AmILumTyX3_b7Oe-41" value="Availability zone 1( East-US)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="330" width="172.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E9d8_AmILumTyX3_b7Oe-42" value="Availability Zone 2 (West-US)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="630" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
